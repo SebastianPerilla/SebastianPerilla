@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**SebastianPerilla/SebastianPerilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Hi, I'm Sebas**  
 
-Here are some ideas to get you started:
+### *CS & AI Student | CTO @ [SEAL](https://sealautofill.com) | Aspiring Quantitative Analyst*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianperillaespinosa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianperilla/) [![Startup Website](https://img.shields.io/badge/Startup%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sealautofill.com)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=sebastianperilla&style=for-the-badge)
+
+</div>
+<div align="center">
+  
+## 👨‍💻 Profile  
+
+🚀 **Computer Science & Artificial Intelligence** student at **IE Business School** (Expected May 2026).  
+📊 **Quantitative Macro Junior Analyst** at **[EDEN Fund](https://www.ie.edu/eden-fund/)**.  
+🏆 **AI Hackathon Finalist** (3rd out of 33 teams) & **Machine Learning Team Lead**.  
+💡 Passionate about **Machine Learning, Quantitative Finance, and AI for Business**.  
+
+</div>
