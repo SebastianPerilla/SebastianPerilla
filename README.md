@@ -4,7 +4,7 @@
 
 ### *CS & AI Student | CTO @ [SEAL](https://seal-iota.vercel.app/) | Aspiring Quantitative Analyst*  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianperillaespinosa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianperilla/) [![Startup Website](https://img.shields.io/badge/Startup%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://sealautofill.com](https://sealautofill.com/))  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastianperillaespinosa@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastianperilla/) [![Startup Website](https://img.shields.io/badge/Startup%20Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://www.sealautofill.com](https://www.sealautofill.com/))  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sebastianperilla&style=for-the-badge)
 
