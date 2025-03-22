@@ -14,7 +14,7 @@
 ## 👨‍💻 Profile  
 
 🚀 **Computer Science & Artificial Intelligence** student at **IE Business School** (Expected May 2026).  
-📊 **Quantitative Macro Junior Analyst** at **[EDEN Fund](https://www.ie.edu/eden-fund/)**.  
+📊 **Senior Quantitative Analyst** at **[EDEN Fund](https://www.ie.edu/eden-fund/)**.  
 🏆 **AI Hackathon Finalist** (3rd out of 33 teams) & **Machine Learning Team Lead**.  
 💡 Passionate about **Machine Learning, Quantitative Finance, and AI for Business**.  
 
