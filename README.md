@@ -8,7 +8,7 @@
 
 #### Tech Stack
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-![GCC version](https://img.shields.io/badge/GCC-12.2-blue)
+![GCC version](https://img.shields.io/badge/GCC-14.0-blue)
 [![CMake](https://img.shields.io/badge/CMake-blue?logo=cmake&logoColor=white)](#)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
